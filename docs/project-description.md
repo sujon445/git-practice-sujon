@@ -1,12 +1,19 @@
 # Project Description
 
-This is a beginner-friendly Python project for learning Git and GitHub.
+This project is a simple calculator built with Python.
 
 ## Objectives
 
-- Learn Git version control
-- Practice commits and branches
-- Build a simple calculator using Python
+- Practice Git version control
+- Learn commits, branches, and merging
+- Organize code using separate Python modules
+- Practice basic calculator operations
+
+## Available Operations
+
+- Addition
+- Subtraction
+- Multiplication
 
 ## Technologies
 
